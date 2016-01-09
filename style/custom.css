@@ -1,0 +1,49 @@
+
+.img{
+    float: right;
+    clear: left;
+}
+
+.prof{
+    float: right;
+    clear: left;
+}
+
+.ext{
+    float: right;
+    clear: left;
+}
+
+.external_link{
+    height: 35px;
+    width: 35px;
+}
+
+.profile{
+    text-align: right;
+    height: 165px;
+    width: 165px;
+}
+
+.heading{
+    font-weight: bold;
+}
+
+.se{
+    height: 250px;
+    width: 400px;
+}
+
+.sd{
+    height: 280px;
+    width: 400px;
+}
+
+.os{
+    height: 250px;
+    width: 250px;
+}
+.content{
+    height: 200px;
+    width: 200px;
+}
